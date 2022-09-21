@@ -1,8 +1,14 @@
 ## The Equity Policy Lab (EPL) 
 
-The EPL aims to increase the likelihood that the Bank's analytical and operational work regularly considers the ​distributional impact of interventions by providing the appropriate just-in-time expertise.
+The Equity Policy Lab seeks to facilitate and improve the frequency and quality of distributional analysis of alternative policy reforms, as a critical input to the policy decision making process.
 
+This organization hosts some cricial analysis developed by the EPL.
 
+See also:
+
+Gao, Jia; Vinha, Katja Pauliina; Skoufias, Emmanuel. 2020. World Bank Equity Policy Lab (EPL) Vulnerability Tool to Measure Poverty Risk. Washington, D.C. : World Bank Group. https://documentsinternal.worldbank.org/search/32822665
+
+Nguyen, Minh Cong; Corral, Paul; Azevedo, Joao Pedro; Zhao, Qinghua. 2018. SAE - A Stata Package for Unit Level Small Area Estimation. Policy Research Working Paper;No. 8630. World Bank, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/30650 License: CC BY 3.0 IGO.”
 
 <!--
 
